@@ -195,6 +195,10 @@ gives it `TZ` itself. Its WebUI opens the setup page, which says how to
 save the two files on Unraid. To link the Unraid server itself in the
 sidebar, as a tool, give it `icon: unraid.svg`, which Overlook ships.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Overlook/)
+
 ## Configuring
 
 [`overlook.example.yaml`](overlook.example.yaml) shows every source with
